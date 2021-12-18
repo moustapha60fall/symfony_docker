@@ -1,0 +1,6 @@
+{
+    "require": {
+        "twig/string-extra": "^3.3",
+        "knplabs/knp-paginator-bundle": "^5.7"
+    }
+}
